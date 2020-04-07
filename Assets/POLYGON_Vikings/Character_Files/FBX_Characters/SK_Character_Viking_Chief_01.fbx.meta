@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1ab6ea2131c745c40bdc7a723bca575d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Ball_L
+    100006: Ball_R
+    100008: Clavicle_L
+    100010: Clavicle_R
+    100012: Elbow_L
+    100014: Elbow_R
+    100016: Eyebrows
+    100018: Eyes
+    100020: Finger_L_01
+    100022: Finger_L_02
+    100024: Finger_L_03
+    100026: Finger_L_04
+    100028: Finger_R_01
+    100030: Finger_R_02
+    100032: Finger_R_03
+    100034: Finger_R_04
+    100036: Hand_L
+    100038: Hand_R
+    100040: Head
+    100042: Hips
+    100044: IndexFinger_L_01
+    100046: IndexFinger_L_02
+    100048: IndexFinger_L_03
+    100050: IndexFinger_L_04
+    100052: IndexFinger_R_01
+    100054: IndexFinger_R_02
+    100056: IndexFinger_R_03
+    100058: IndexFinger_R_04
+    100060: Item_CoinBag
+    100062: Item_Horn
+    100064: Item_Shield
+    100066: LowerLeg_L
+    100068: LowerLeg_R
+    100070: Neck
+    100072: Root
+    100074: Shoulder_L
+    100076: Shoulder_R
+    100078: //RootNode
+    100080: SK_Character_Viking_Chief_01
+    100082: Spine_01
+    100084: Spine_02
+    100086: Spine_03
+    100088: Thumb_L_01
+    100090: Thumb_L_02
+    100092: Thumb_L_03
+    100094: Thumb_R_01
+    100096: Thumb_R_02
+    100098: Thumb_R_03
+    100100: Toes_L
+    100102: Toes_R
+    100104: UpperLeg_L
+    100106: UpperLeg_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Ball_L
+    400006: Ball_R
+    400008: Clavicle_L
+    400010: Clavicle_R
+    400012: Elbow_L
+    400014: Elbow_R
+    400016: Eyebrows
+    400018: Eyes
+    400020: Finger_L_01
+    400022: Finger_L_02
+    400024: Finger_L_03
+    400026: Finger_L_04
+    400028: Finger_R_01
+    400030: Finger_R_02
+    400032: Finger_R_03
+    400034: Finger_R_04
+    400036: Hand_L
+    400038: Hand_R
+    400040: Head
+    400042: Hips
+    400044: IndexFinger_L_01
+    400046: IndexFinger_L_02
+    400048: IndexFinger_L_03
+    400050: IndexFinger_L_04
+    400052: IndexFinger_R_01
+    400054: IndexFinger_R_02
+    400056: IndexFinger_R_03
+    400058: IndexFinger_R_04
+    400060: Item_CoinBag
+    400062: Item_Horn
+    400064: Item_Shield
+    400066: LowerLeg_L
+    400068: LowerLeg_R
+    400070: Neck
+    400072: Root
+    400074: Shoulder_L
+    400076: Shoulder_R
+    400078: SK_Character_Viking_Chief_01
+    400080: //RootNode
+    400082: Spine_01
+    400084: Spine_02
+    400086: Spine_03
+    400088: Thumb_L_01
+    400090: Thumb_L_02
+    400092: Thumb_L_03
+    400094: Thumb_R_01
+    400096: Thumb_R_02
+    400098: Thumb_R_03
+    400100: Toes_L
+    400102: Toes_R
+    400104: UpperLeg_L
+    400106: UpperLeg_R
+    2100000: White
+    2300000: Item_CoinBag
+    2300002: Item_Horn
+    2300004: Item_Shield
+    3300000: Item_CoinBag
+    3300002: Item_Horn
+    3300004: Item_Shield
+    4300000: Item_Shield
+    4300002: Item_Horn
+    4300004: Item_CoinBag
+    4300006: SK_Character_Viking_Chief_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SK_Character_Viking_Chief_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

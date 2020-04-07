@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86d5f26d583cae145b9de60dadf9ef47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sparkPrefab: {fileID: 1107427445079714302, guid: 8a81a09463e421e428f3ccdf7389cdb0,
+      type: 3}
+  - bloodPrefab: {fileID: 1107427445079714302, guid: dd4dd5ee4bed379489fd1a53db190ed5,
+      type: 3}
+  - swingSound: {fileID: 8300000, guid: abfd64287ddc98d468c7332148ca2d99, type: 3}
+  - parrySound: {fileID: 8300000, guid: a25194c1551fc4a4da5a411e5b01848b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
